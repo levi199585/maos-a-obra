@@ -1,0 +1,8 @@
+{
+  "name": "Mãos à Obra - Serviços de Construção",
+  "description": "Uma plataforma completa para conectar profissionais de construção civil a clientes, com pagamentos seguros e gestão de serviços.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
